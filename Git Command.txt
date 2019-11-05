@@ -1,0 +1,22 @@
+// For first upload a project
+
+ls 
+cd
+git init
+git remote add origin <git repo link>
+git remote -v
+git add
+git commit -m "Commit Message"
+git push origin master
+
+// For help- git help
+
+// For back to previous folder- cd..
+// For access a folder- cd driveName\folderName
+
+//For Git Status -git status
+
+//For Git push existing Repo
+git add -A
+git commit -m "Commit Message"
+git push origin master
